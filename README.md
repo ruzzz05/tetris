@@ -1,14 +1,14 @@
-# Tetris en Java
+Tetris in Java
+Tetris project developed in Java. A classic game with a text-based interface and color support.
+This was created as a university project by a Computer Engineering student. 
+Therefore, there are folders and names specific to that assignment.
 
-Proyecto Tetris desarrollado en Java. Juego clásico con interfaz de texto y soporte de colores.
-Este es un proyecto realizado como un proyecto para la universidad como estudiante de Ingeniería Informática.
-Por ello hay carpetas y nombres propios de esta tarea.
 
 ---
 
-## Cómo ejecutar
+##How to Run
 
-Para ejecutar el juego, usa:
+To run the game, use:
 
 ```bash
 java -cp "out:lib/*" es.unileon.prg1.tetris.MainTetris [filas] [columnas] [modo_color]
@@ -18,33 +18,33 @@ java -cp "out:lib/*" es.unileon.prg1.tetris.MainTetris [filas] [columnas] [modo_
 
 
 tetris/
-├── src/              Código fuente Java  
-├── lib/              Dependencias (JARs de Log4j)  
-├── out/              Archivos compilados  
-├── etc/              Configuración y documentación  
-└── README.md         Este archivo  
+├── src/              Java source code  
+├── lib/              Dependencies (Log4j JARs)  
+├── out/              Compiled files  
+├── etc/              Configuration and documentation  
+└── README.md         This file  
 
 
 
 
 
-## Licencia
+##License
 
-Este proyecto está bajo una licencia personalizada que permite:
+This project is under a custom license that allows:
 
-- 📌 **Uso y modificación del código** libremente  
-- 🚫 **Prohibición de uso con fines comerciales o de lucro**  
-- ✍️ **Reconocimiento obligatorio al autor original:** cualquier redistribución, modificación
-o uso del código debe incluir una referencia explícita a Miguel Ruz García como autor original
-
----
-
-**Resumen:** Puedes usar y modificar este proyecto para fines personales o educativos, pero
-no para obtener beneficios económicos, y siempre respetando la autoría.
+📌 Free use and modification of the code
+🚫 Prohibition of commercial or profit-oriented use
+✍️ Mandatory credit to the original author: any redistribution, modification,
+or use of the code must include explicit reference to Miguel Ruz García as the original author.
 
 ---
 
-Para cualquier consulta o permiso especial, contacta con el autor.
+**Summary**: You can use and modify this project for personal or educational purposes, but
+not for economic gain, and always respecting authorship.
+
+---
+
+For any inquiries or special permissions, please contact the author.
 
 
 
@@ -52,9 +52,11 @@ Para cualquier consulta o permiso especial, contacta con el autor.
 
 
 
-Autor
+
+Author
 Miguel Ruz García
 
-## Contacto
+
+## Contact
 
 Miguel Ruz García — ruz.miguel00@gmail.com
