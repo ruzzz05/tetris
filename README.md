@@ -34,14 +34,16 @@ tetris/
 
 This project is under a custom license that allows:
 
-📌 Free use and modification of the code
-🚫 Prohibition of commercial or profit-oriented use
-✍️ Mandatory credit to the original author: any redistribution, modification,
-or use of the code must include explicit reference to Miguel Ruz García as the original author.
+- 📌 Free use and modification of the code  
+- 🚫 Prohibition of commercial or profit-oriented use  
+- ✍️ Mandatory credit to the original author:  
+  Any redistribution, modification, or use of the code must include explicit reference to Miguel Ruz García as the original author.
 
 ---
 
-**Summary**: You can use and modify this project for personal or educational purposes, but
+**Summary**:  
+
+You can use and modify this project for personal or educational purposes, but  
 not for economic gain, and always respecting authorship.
 
 ---
@@ -54,10 +56,11 @@ For any inquiries or special permissions, please contact the author.
 
 
 
+## 👤 Author
 
-Author
 Miguel Ruz García
 
+---
 
 ## 📬 Contact
 
