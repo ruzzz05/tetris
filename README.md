@@ -1,6 +1,8 @@
 # Tetris en Java
 
 Proyecto Tetris desarrollado en Java. Juego clásico con interfaz de texto y soporte de colores.
+Este es un proyecto realizado como un proyecto para la universidad como estudiante de Ingeniería Informática.
+Por ello hay carpetas y nombres propios de esta tarea.
 
 ---
 
@@ -50,3 +52,7 @@ Para cualquier consulta o permiso especial, contacta con el autor.
 
 Autor
 Miguel Ruz García
+
+## Contacto
+
+Miguel Ruz García — ruz.miguel00@gmail.com
