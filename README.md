@@ -34,11 +34,13 @@ Este proyecto está bajo una licencia personalizada que permite:
 
 - 📌 **Uso y modificación del código** libremente  
 - 🚫 **Prohibición de uso con fines comerciales o de lucro**  
-- ✍️ **Reconocimiento obligatorio al autor original:** cualquier redistribución, modificación o uso del código debe incluir una referencia explícita a Miguel Ruz García como autor original
+- ✍️ **Reconocimiento obligatorio al autor original:** cualquier redistribución, modificación
+o uso del código debe incluir una referencia explícita a Miguel Ruz García como autor original
 
 ---
 
-**Resumen:** Puedes usar y modificar este proyecto para fines personales o educativos, pero no para obtener beneficios económicos, y siempre respetando la autoría.
+**Resumen:** Puedes usar y modificar este proyecto para fines personales o educativos, pero
+no para obtener beneficios económicos, y siempre respetando la autoría.
 
 ---
 
