@@ -1,8 +1,8 @@
 ## 🎮 Tetris in Java
 
-Tetris project developed in Java.
-A classic game with a text-based interface and color support.
-This was created as a university project by a Computer Engineering student.
+Tetris project developed in Java.  
+A classic game with a text-based interface and color support.  
+This was created as a university project by a Computer Engineering student.  
 Therefore, some folders and names are specific to that assignment.
 
 ---
@@ -12,9 +12,8 @@ Therefore, some folders and names are specific to that assignment.
 To run the game, use:
 
 ```bash
-java -cp "out:lib/*" es.unileon.prg1.tetris.MainTetris [filas] [columnas] [modo_color]
-
-
+java -cp "out:lib/*" es.unileon.prg1.tetris.MainTetris [rows] [columns] [color_mode]
+```
 
 ## 📁 Project Structure
 
